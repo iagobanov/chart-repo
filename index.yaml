@@ -9,6 +9,6 @@ entries:
     name: nginx-app-helm
     type: application
     urls:
-    - https://github.com/iagobanov/chart-repo/blob/main/nginx-app-helm-0.4.0.tgz
+    - https://iagobanov.github.io/chart-repo/nginx-app-helm-0.4.0.tgz
     version: 0.4.0
 generated: "2022-12-06T19:16:16.447253-03:00"
