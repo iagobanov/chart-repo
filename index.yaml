@@ -3,12 +3,12 @@ entries:
   nginx-app-helm:
   - apiVersion: v2
     appVersion: 1.18.0
-    created: "2022-12-06T18:48:43.354002-03:00"
+    created: "2022-12-06T19:07:30.209908-03:00"
     description: A Helm chart for Kubernetes
-    digest: cfb0a913d6fee39c9b773349f0e1fb3d44f2ec933ddd6f9180e475c7adc464f6
+    digest: 453306f5fcb2da33cbe9c2f9c5c1f510f72dd6d36bb1e6e79eb8d6479e959c99
     name: nginx-app-helm
     type: application
     urls:
-    - https://github.com/iagobanov/chart-repo/nginx-app-helm-0.3.0.tgz
-    version: 0.3.0
-generated: "2022-12-06T18:48:43.353372-03:00"
+    - https://github.com/iagobanov/chart-repo/nginx-app-helm-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-12-06T19:07:30.207505-03:00"
