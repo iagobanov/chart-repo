@@ -1,7 +1,6 @@
 replicaCount: 1
 
-image:
-  repository: 073346639909.dkr.ecr.us-east-1.amazonaws.com/nginx-app
+image: 073346639909.dkr.ecr.us-east-1.amazonaws.com/nginx-app
 
 imagePullSecrets: []
 nameOverride: ""
