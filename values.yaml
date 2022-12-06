@@ -1,9 +1,6 @@
 replicaCount: 1
 
-image:
-  repository: 073346639909.dkr.ecr.us-east-1.amazonaws.com/nginx-app
-  pullPolicy: Always
-  tag: "latest"
+image: ""
 
 imagePullSecrets: []
 nameOverride: ""
